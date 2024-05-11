@@ -2,9 +2,9 @@
 - 👀 I’m interested in leveraging data to solve real-world problems and improve business outcomes. From analyzing customer behavior to optimizing operational processes, I thrive on finding patterns and trends in data.
 - 🌱 I’m currently pursuing a Masters degree in Data Analytics 
 - 💞️ I’m looking to collaborate on projects that involve predictive analytics, data storytelling, and interactive visualizations. If you have an exciting data project or idea, I'd love to hear about it!
-- 📫  You can reach me via email at azubuineugochukwu@gmail.com
+- 📫  You can reach me via email at azubuineugochukwu@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/ugochukwuazubuine/
 - 😄 My pronouns are he/him/his
-- ⚡ Fun fact about me is I love playing basketball, video games and chess
+- ⚡ Fun fact: In my free time, I love playing basketball, video games and chess
 
 <!---
 ugxls/ugxls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
