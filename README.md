@@ -1,4 +1,4 @@
-- 👋Hi, I’m Ug. I'm a passionate data analyst with a keen interest in uncovering insights from complex datasets to drive informed decision-making.
+- 👋Hi, I’m UG. I'm a passionate data analyst with a keen interest in uncovering insights from complex datasets to drive informed decision-making.
 -  I’m interested in leveraging data to solve real-world problems and improve business outcomes. From analyzing customer behavior to optimizing operational processes, I thrive on finding patterns and trends in data.
 -  I’m currently pursuing a Masters of Science degree in Data Analytics at Clark University
 -  I’m looking to collaborate on projects that involve predictive analytics, data storytelling, and interactive visualizations. If you have an exciting data project or idea, I'd love to hear about it!
