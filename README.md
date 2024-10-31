@@ -3,7 +3,6 @@
 -  I’m currently pursuing a Masters of Science degree in Data Analytics at Clark University
 -  I’m looking to collaborate on projects that involve predictive analytics, data storytelling, and interactive visualizations. If you have an exciting data project or idea, I'd love to hear about it!
 -   You can reach me via email at azubuineugochukwu@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/ugochukwuazubuine/
--  My pronouns are he/him/his
 -  Fun fact: In my free time, I love playing basketball, video games and chess
 
 <!---
